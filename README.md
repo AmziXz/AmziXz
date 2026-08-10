@@ -46,9 +46,6 @@ If any of that sounds like your kind of thing, the subscribe button is right the
 [![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AmziXz)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@itsamzixz)
 
-## Stats
-
-![AmziXz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmziXz&show_icons=true&hide_border=true&theme=tokyonight)
 
 <!-- Top-languages card — uncomment once you have real public repos.
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmziXz&layout=compact&hide_border=true&theme=tokyonight)
