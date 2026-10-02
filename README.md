@@ -7,13 +7,13 @@
 ## About me
 
 - 🎓 Fourth-year **Computer Systems Technician** student at Ogres Tehnikums, Latvia
-- 🥤 Co-founder of **SIA Blue Eye Energy** — a private label energy drink company. I built and run the website side.
+- 🥤 Co-founder of **SIA Blue Eye Energy** — a energy drink company.
 - 🎥 I make videos about phone software modifying and IT on YouTube
-- 🐧 Daily driver: **Fedora + KDE**, dual-booting Windows
+- 🐧 Daily driver: Windows + ProXmoX VE
 
 ## What I'm working on
 
-- 🌐 **[amzixz.github.io](https://amzixz.github.io)** — my personal site
+- 🌐 **[amzixz.github.io](https://amzixz.id.lv)** — my personal site
 - 🥤 The web and content side of **Blue Eye Energy**
 - 📺 Two channels + a TikTok (below)
 
@@ -21,7 +21,7 @@
 
 Still early in the programming side and honest about it — currently working through the fundamentals while my strengths sit in systems, servers and hardware.
 
-## Tech I've actually worked with
+## Tech I've worked with
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
