@@ -1,19 +1,19 @@
-# Hey, I'm Emīls — aka AmziXz 👋
+# Hey, I'm AmziXz 👋
 
-**Computer systems student by day, content creator by night, energy drink co-founder somewhere in between.**
+**Computer systems student by day, content creator by night, energy drink co-founder.**
 
 ---
 
 ## About me
 
 - 🎓 Fourth-year **Computer Systems Technician** student at Ogres Tehnikums, Latvia
-- 🥤 Co-founder of **SIA Blue Eye Energy** — a energy drink company.
+- 🥤 Co-founder of **SIA Blue Eye Energy** - a energy drink company.
 - 🎥 I make videos about phone software modifying and IT on YouTube
 - 🐧 Daily driver: Windows + ProXmoX VE
 
 ## What I'm working on
 
-- 🌐 **[amzixz.id.lv](https://amzixz.id.lv)** — my personal site
+- 🌐 **[amzixz.id.lv](https://amzixz.id.lv)** - my personal site
 - 🥤 The web and content side of **Blue Eye Energy**
 - 📺 Two channels + a TikTok (below)
 
@@ -37,9 +37,9 @@ Still early in the programming side and honest about it — currently working th
 
 ## 🎥 Channels
 
-**[@AmziXz](https://www.youtube.com/@AmziXz)** — main channel
-**[@PhoneGuruAmziXz](https://www.youtube.com/@PhoneGuruAmziXz)** — phone software modifying
-**[@itsamzixz](https://www.tiktok.com/@itsamzixz)** — streams, sometimes
+**[@AmziXz](https://www.youtube.com/@AmziXz)** - main channel
+**[@PhoneGuruAmziXz](https://www.youtube.com/@PhoneGuruAmziXz)** - phone software modifying
+**[@itsamzixz](https://www.tiktok.com/@itsamzixz)** - streams, content
 
 If any of that sounds like your kind of thing, the subscribe button is right there 👇
 
