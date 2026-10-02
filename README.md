@@ -13,7 +13,7 @@
 
 ## What I'm working on
 
-- 🌐 **[amzixz.github.io](https://amzixz.id.lv)** — my personal site
+- 🌐 **[amzixz.id.lv](https://amzixz.id.lv)** — my personal site
 - 🥤 The web and content side of **Blue Eye Energy**
 - 📺 Two channels + a TikTok (below)
 
